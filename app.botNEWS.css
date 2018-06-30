@@ -1,0 +1,21 @@
+.botbar  {
+    overflow:hidden;
+    border: 1px solid rgb(204, 204, 204);
+    background-color: #333;
+    position: absolute;
+    width: 1900px;
+    bottom: -1600px;
+  }
+  .botbar a{
+    background-color: inherit;
+    float: right;
+    position: relative;
+    right: 100px;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    padding: 20px 10px;
+    transition: 0.3s;
+    font-size: 30px;
+    color: #ccc;
+  }
